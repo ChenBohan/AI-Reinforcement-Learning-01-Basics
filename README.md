@@ -3,6 +3,8 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 
 ## Reinforcement Learning Basics
 
+https://www.jianshu.com/p/881ab7e41adb
+
 ### Summary
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/what_have_we_learned.png" width = "70%" height = "70%" div align=center />
 
