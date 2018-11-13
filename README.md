@@ -6,8 +6,12 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 ### Ref:
 
 [Reinforcement Learning 第一周课程笔记](https://www.jianshu.com/p/881ab7e41adb)
+[Reinforcement Learning 第二周课程笔记](https://www.jianshu.com/p/413691dcaa56)
+[Reinforcement Learning 第三周课程笔记](https://www.jianshu.com/p/292ca663f7b0)
+
 
 ### Summary
+
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/what_have_we_learned.png" width = "70%" height = "70%" div align=center />
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/what_have_we_learned_2.png" width = "70%" height = "70%" div align=center />
@@ -62,9 +66,9 @@ Policy is A mapping from state to action
 
 **Bellman equation**
 
-π*(s) is the optimal policy given current state. ** U(s)** is the utility of the state if follow π*. Thus we get the utility of the current state is reward of current state [R(s)] plus the discounted utility from this point on. This is the Bellman Equation.
-
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/bellman_equations.png" width = "70%" height = "70%" div align=center />
+
+π*(s) is the optimal policy given current state. ** U(s)** is the utility of the state if follow π*. Thus we get the utility of the current state is reward of current state [R(s)] plus the discounted utility from this point on. This is the Bellman Equation.
 
 **Relation**
 
@@ -79,16 +83,19 @@ Policy is A mapping from state to action
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/behavior_structures.png" width = "70%" height = "70%" div align=center />
 
+- Plan is a set of fixed actions. Plan won't work during learning or when the environment is only partially known or stochastic.
+- Conditional Plan includes "if" statements
+- Stationary policy (or Universal Plan) are mapping from state to action. it can handle stochastic very well but it is very large. There always is an optimal stationary policy.
+
+
 ### Evaluate
 
-Evaluating a policy
+**Evaluating a policy**
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/evaluating_a_policy.png" width = "70%" height = "70%" div align=center />
 
-Evaluating a learner
+The numbers in the parentheses are probabilities of choosing the sequence. R(s,a) is reward function. Return is discounted rewards.
+
+**Evaluating a learner**
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/evaluating_a_learner.png" width = "70%" height = "70%" div align=center />
-
-### Context
-
-<img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/RL_context.png" width = "70%" height = "70%" div align=center />
