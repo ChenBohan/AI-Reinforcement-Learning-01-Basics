@@ -60,13 +60,13 @@ Policy is A mapping from state to action
 
 - Utility of a state U(s) is long term expected discounted rewards from this point on; It's delayed reward.
 
-**Bellman equation
+**Bellman equation**
 
 π*(s) is the optimal policy given current state. ** U(s)** is the utility of the state if follow π*. Thus we get the utility of the current state is reward of current state [R(s)] plus the discounted utility from this point on. This is the Bellman Equation.
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/bellman_equations.png" width = "70%" height = "70%" div align=center />
 
-**Relation
+**Relation**
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-01-Basics/blob/master/readme_img/The_realation_between_bellman_equation.png" width = "70%" height = "70%" div align=center />
 
