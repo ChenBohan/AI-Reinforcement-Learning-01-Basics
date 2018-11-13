@@ -6,7 +6,9 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 ### Ref:
 
 [Reinforcement Learning 第一周课程笔记](https://www.jianshu.com/p/881ab7e41adb)
+
 [Reinforcement Learning 第二周课程笔记](https://www.jianshu.com/p/413691dcaa56)
+
 [Reinforcement Learning 第三周课程笔记](https://www.jianshu.com/p/292ca663f7b0)
 
 
