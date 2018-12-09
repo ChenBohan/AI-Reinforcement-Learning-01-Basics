@@ -11,6 +11,16 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 
 [Reinforcement Learning 第三周课程笔记](https://www.jianshu.com/p/292ca663f7b0)
 
+[Reinforcement Learning 1.初步介绍](https://blog.csdn.net/hellocsz/article/details/80833464)
+
+[Reinforcement Learning 2.Multi-arm Bandits Problem](https://blog.csdn.net/coffee_cream/article/details/58034628)
+
+[Reinforcement Learning 3.Finite Markov Decision Processes](https://blog.csdn.net/coffee_cream/article/details/60473789)
+
+[Reinforcement Learning 4.Dynamic Programming](https://blog.csdn.net/coffee_cream/article/details/62892546)
+
+[Reinforcement Learning 5.Monte Carlo Method](https://blog.csdn.net/coffee_cream/article/details/66972281)
+
 
 ### Summary
 
