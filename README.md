@@ -21,6 +21,10 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 
 [Reinforcement Learning 5.Monte Carlo Method](https://blog.csdn.net/coffee_cream/article/details/66972281)
 
+[Deep Reinforcement Learning 基础知识](https://blog.csdn.net/songrotek/article/details/50580904)
+
+[Reinforcement Learning 经典算法梳理1：policy and value iteration](https://blog.csdn.net/songrotek/article/details/51378582)
+
 
 ### Summary
 
