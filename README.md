@@ -34,6 +34,10 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803
 
 ### Basic
 
+Reinforcement learning is learning what to do — how to **map situations to actions** — so as to **maximize a numerical reward signal**.
+
+These two characteristics — **trial-and-error search** and **delayed reward** — are the two most important distinguishing features of reinforcement learning.
+
 - Supervised Learning: y = f(x), given many x, y pairs, determine function f to determine the relationship between x and y.
 
 - Unsupervised Learning: f(x), given a lot of x, determine function f to cluster or describe x.
